@@ -1,0 +1,6 @@
+{
+  "key.category.pearlcatch.main": "Pearl Catch",
+  "key.pearlcatch.run": "Pearl Catch (pearl + wind charge)",
+  "key.pearlcatch.delay_up": "Increase delay (ticks)",
+  "key.pearlcatch.delay_down": "Decrease delay (ticks)"
+}

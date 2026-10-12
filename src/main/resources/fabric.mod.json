@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "pearlcatch",
+  "version": "${version}",
+  "name": "Pearl Catch",
+  "description": "Keybind that throws an ender pearl then a wind charge with a configurable tick delay.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.pearlcatch.PearlCatchClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
